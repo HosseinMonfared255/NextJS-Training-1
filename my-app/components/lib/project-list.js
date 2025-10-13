@@ -1,0 +1,51 @@
+export const projects = [
+  {
+    id: 1,
+    imageUrl: "https://sfile.chatglm.cn/images-ppt/eb92bd2d9613.jpg",
+    imageAlt: "پروژه تجاری مدرن",
+    title: "مجتمع تجاری الماس",
+    description: "مجتمع تجاری مدرن با زیربنای ۵۰۰۰ متر مربع در مرکز شهر.",
+    status: "انجام شده",
+  },
+  {
+    id: 2,
+    imageUrl:
+      "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    imageAlt: "پروژه طراحی وب‌سایت",
+    title: "وب‌سایت شرکت نوین‌تک",
+    description: "طراحی و پیاده‌سازی وب‌سایت شرکتی با جدیدترین تکنولوژی‌ها.",
+    status: "در حال انجام",
+  },
+  {
+    id: 3,
+    imageUrl: "https://sfile.chatglm.cn/images-ppt/0d4e24444549.png",
+    imageAlt: "پروژه مسکونی لوکس",
+    title: "برج مسکونی آسمان",
+    description: "برج مسکونی لوکس با ۲۴ طبقه و امکانات رفاهی کامل.",
+    status: "در حال انجام",
+  },
+  {
+    id: 4,
+    imageUrl: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "پروژه آموزشی دانشگاه",
+    title: "ساختمان جدید دانشگاه",
+    description: "ساختمان آموزشی با ظرفیت ۱۰۰۰ دانشجو و امکانات مدرن.",
+    status: "در حال انجام",
+  },
+  {
+    id: 5,
+    imageUrl: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "پروژه صنعتی کارخانه",
+    title: "کارخانه تولید قطعات خودرو",
+    description: "احداث کارخانه صنعتی با خطوط تولید پیشرفته.",
+    status: "انجام شده",
+  },
+  {
+    id: 6,
+    imageUrl: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "پروژه تفریحی پارک",
+    title: "پارک تفریحی شهروند",
+    description: "پارک بزرگ با امکانات تفریحی و فضای سبز گسترده.",
+    status: "در حال انجام",
+  },
+];
