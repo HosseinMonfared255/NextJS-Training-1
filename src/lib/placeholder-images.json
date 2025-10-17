@@ -1,3 +1,130 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A stunning modern building at dusk, showcasing architectural excellence.",
+      "imageUrl": "https://picsum.photos/seed/hero1/1920/1080",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "project-1",
+      "description": "The impressive facade of Skyline Tower.",
+      "imageUrl": "https://picsum.photos/seed/skyline/800/600",
+      "imageHint": "skyscraper city"
+    },
+    {
+      "id": "project-1-gallery-1",
+      "description": "Interior lobby of Skyline Tower.",
+      "imageUrl": "https://picsum.photos/seed/skyline1/1200/800",
+      "imageHint": "modern lobby"
+    },
+    {
+      "id": "project-1-gallery-2",
+      "description": "Rooftop view from Skyline Tower.",
+      "imageUrl": "https://picsum.photos/seed/skyline2/1200/800",
+      "imageHint": "city rooftop"
+    },
+    {
+      "id": "project-1-gallery-3",
+      "description": "Detail of the sustainable facade of Skyline Tower.",
+      "imageUrl": "https://picsum.photos/seed/skyline3/1200/800",
+      "imageHint": "building facade"
+    },
+    {
+      "id": "project-2",
+      "description": "A beautiful modern villa at Willow Creek Residences.",
+      "imageUrl": "https://picsum.photos/seed/willow/800/600",
+      "imageHint": "modern house"
+    },
+    {
+      "id": "project-2-gallery-1",
+      "description": "Living room of a villa in Willow Creek.",
+      "imageUrl": "https://picsum.photos/seed/willow1/1200/800",
+      "imageHint": "luxury interior"
+    },
+    {
+      "id": "project-2-gallery-2",
+      "description": "Community pool area at Willow Creek.",
+      "imageUrl": "https://picsum.photos/seed/willow2/1200/800",
+      "imageHint": "resort pool"
+    },
+    {
+      "id": "project-2-gallery-3",
+      "description": "Landscaped gardens at Willow Creek.",
+      "imageUrl": "https://picsum.photos/seed/willow3/1200/800",
+      "imageHint": "manicured garden"
+    },
+    {
+      "id": "project-3",
+      "description": "The restored facade of the Heritage Museum.",
+      "imageUrl": "https://picsum.photos/seed/museum/800/600",
+      "imageHint": "historic building"
+    },
+    {
+      "id": "project-3-gallery-1",
+      "description": "Inside the main hall of the museum.",
+      "imageUrl": "https://picsum.photos/seed/museum1/1200/800",
+      "imageHint": "museum interior"
+    },
+    {
+      "id": "project-3-gallery-2",
+      "description": "Restored architectural detail.",
+      "imageUrl": "https://picsum.photos/seed/museum2/1200/800",
+      "imageHint": "architectural detail"
+    },
+    {
+      "id": "project-3-gallery-3",
+      "description": "Modern exhibit inside the historic building.",
+      "imageUrl": "https://picsum.photos/seed/museum3/1200/800",
+      "imageHint": "museum exhibit"
+    },
+    {
+      "id": "project-4",
+      "description": "Aerial view of the Innovatech Corporate Campus.",
+      "imageUrl": "https://picsum.photos/seed/campus/800/600",
+      "imageHint": "corporate campus"
+    },
+    {
+      "id": "project-4-gallery-1",
+      "description": "Collaborative workspace inside Innovatech.",
+      "imageUrl": "https://picsum.photos/seed/campus1/1200/800",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "project-4-gallery-2",
+      "description": "Green rooftop on an Innovatech building.",
+      "imageUrl": "https://picsum.photos/seed/campus2/1200/800",
+      "imageHint": "green roof"
+    },
+    {
+      "id": "project-4-gallery-3",
+      "description": "Outdoor amphitheater at Innovatech campus.",
+      "imageUrl": "https://picsum.photos/seed/campus3/1200/800",
+      "imageHint": "outdoor amphitheater"
+    },
+    {
+      "id": "member-1",
+      "description": "Portrait of John Carter, CEO.",
+      "imageUrl": "https://picsum.photos/seed/ceo/400/400",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "member-2",
+      "description": "Portrait of Sarah Chen, COO.",
+      "imageUrl": "https://picsum.photos/seed/coo/400/400",
+      "imageHint": "female portrait"
+    },
+    {
+      "id": "member-3",
+      "description": "Portrait of Michael Rodriguez, Head of Engineering.",
+      "imageUrl": "https://picsum.photos/seed/engineer/400/400",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "contact-map",
+      "description": "A map showing the location of the company headquarters.",
+      "imageUrl": "https://picsum.photos/seed/map/1200/500",
+      "imageHint": "city map"
+    }
+  ]
 }
